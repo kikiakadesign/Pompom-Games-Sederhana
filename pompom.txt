@@ -1,0 +1,7 @@
+GAMES SEDERHANA
+
+dibuat dengan Visual Studio
+inquiry games :
+- HTML
+- CSS
+- Javascript
